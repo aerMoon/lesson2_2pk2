@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum Enviroment {
+public enum Env {
+    WATER,
+    GROUND,
+    AIR
 }

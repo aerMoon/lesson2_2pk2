@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public enum Food {
+public enum Food {
+    GRASS,
+    MEAT
 }
